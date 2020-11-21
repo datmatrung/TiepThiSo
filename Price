@@ -20,4 +20,7 @@
 4. Phân tích về giá bán đối với doanh nghiệp:
 - Nếu bán sản phẩm với giá quá thấp, sẽ mất doanh thu, tuy nhiên sẽ tăng doanh số bán
 - Còn nếu bán quá cao thì sẽ tăng doanh thu, nhưng mất doanh số bán tiềm năng
-
+- Vậy giá nào là thích hợp: Giá này cao với người A nhưng bình thường với người B
+- Tùy nhóm khách hàng, nên có giá bán khác nhau: min < price < max
+  Ví dụ: vé xem phim, giá bình thường 70k, giá sinh viên 35k, giá trẻ em 0đ
+- Chiến lược giá bán PWYW, vì sự trung thực và công bằng, khách hàng muốn mua với giá bao nhiêu cũng được
