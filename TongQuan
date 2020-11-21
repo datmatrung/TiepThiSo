@@ -7,18 +7,27 @@ Tổng quan về thương mại điện tử
 - Ecommerce
 - Đào tạo trực tuyến (e-learning)
 - Quản lý chuỗi cung ứng
-- Quản lý HR
+- Quản lý HR...
 3. Đối tượng tham gia TMĐT:
 - Người mua, người bán, người môi giới
 - Nhà máy sản xuất, vận chuyển
 - Cửa hàng thật, cửa hàng ảo
 - Nhà nước, cơ quan hành chính, cơ quan tài chính
-2. Phân loại TMĐT dựa trên giao dịch:
+4. Phân loại TMĐT theo giao dịch:
 - Doanh nghiệp với doanh nghiệp: B2B (Business)
-- Doanh nghiệp với nhân viên: B2E (Employee)
 - Doanh nghiệp với khách hàng: B2C (Customer)
+- Doanh nghiệp với siêu thị với khách hàng: B2B2C
+- Doanh nghiệp với nhân viên: B2E (Employee)
 - Khách hàng với doanh nghiệp: C2B
 - Khách hàng với khách hàng: C2C
 - Chính phủ với doanh nghiệp: G2B (Government)
 - Chính phủ với chính phủ: G2G
 - Chính phủ với khách hàng: G2C
+5. Nền tảng cho hệ thống TMĐT:
+- Hạ tầng: mạng, bảo mật, lập trình
+- Người giao dịch
+- Tiếp thị số
+- Dịch vụ công
+- Vận chuyển, thanh toán
+- Chính sách pháp luật
+- Đối tác kinh doanh
